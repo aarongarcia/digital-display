@@ -6,4 +6,4 @@
 - Github Repository: <http://github.com/symphony/symphony-2/tree/master>
 
 
-everything works okay.
+everything works.
