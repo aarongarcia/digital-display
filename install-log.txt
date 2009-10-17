@@ -32,3 +32,29 @@ INSTALLATION COMPLETED: Execution Time - 1 sec (15.10.09 11:31:39)
 
 
 
+
+============================================
+INSTALLATION PROCESS STARTED (2009-10-17T17:55:20-05:00)
+============================================
+2009/10/17 17:55:20 > NOTICE: MYSQL: Establishing Connection...Done
+2009/10/17 17:55:20 > NOTICE: MYSQL: Selecting Database 'image'...Done
+2009/10/17 17:55:20 > NOTICE: MYSQL: Importing Table Schema...Done
+2009/10/17 17:55:20 > NOTICE: MYSQL: Creating Default Author...Done
+2009/10/17 17:55:20 > NOTICE: WRITING: Creating 'manifest' folder (/manifest)
+2009/10/17 17:55:20 > NOTICE: WRITING: Creating 'logs' folder (/manifest/logs)
+2009/10/17 17:55:20 > NOTICE: WRITING: Creating 'cache' folder (/manifest/cache)
+2009/10/17 17:55:20 > NOTICE: WRITING: Creating 'tmp' folder (/manifest/tmp)
+2009/10/17 17:55:20 > NOTICE: WRITING: Configuration File
+2009/10/17 17:55:20 > NOTICE: CONFIGURING: Frontend
+2009/10/17 17:55:20 > NOTICE: WRITING: Creating 'workspace' folder (/workspace)
+2009/10/17 17:55:20 > NOTICE: WRITING: Creating 'data-sources' folder (/workspace/data-sources)
+2009/10/17 17:55:20 > NOTICE: WRITING: Creating 'events' folder (/workspace/events)
+2009/10/17 17:55:20 > NOTICE: WRITING: Creating 'pages' folder (/workspace/pages)
+2009/10/17 17:55:20 > NOTICE: WRITING: Creating 'utilities' folder (/workspace/utilities)
+2009/10/17 17:55:20 > NOTICE: Installation Process Completed In 1 sec
+============================================
+INSTALLATION COMPLETED: Execution Time - 1 sec (17.10.09 17:55:20)
+============================================
+
+
+
