@@ -73,3 +73,6 @@
 [submodule "extensions/uploadify"]
   path = extensions/uploadify
   url = git://github.com/nickdunn/uploadify.git
+[submodule "extensions/entity_diagram"]
+	path = extensions/entity_diagram
+	url = git://github.com/nickdunn/entity_diagram.git
